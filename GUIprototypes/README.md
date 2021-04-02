@@ -1,4 +1,5 @@
 # GUI Prototypes
+designs were made using sketch. File located [here](Design.sketch)
 ## prototype1
 ![prototype1](prototype1.png)
 Too difficult to create
