@@ -15,5 +15,5 @@ Failed attempt is seen [here](prototype1test.py)
 simpler design made this design possible. as seen below working:
 
 ## prototype1
-![workingGUIprototype](workingguiprototype4.png)
+![workingGUIprototype](workingGUIprototype4.png)
 File can be viewed [here](prototype4.py)
