@@ -13,7 +13,5 @@ Failed attempt is seen [here](prototype1test.py)
 ## prototype4
 ![prototype4](prototype4.png)
 simpler design made this design possible. as seen below working:
-
-## prototype1
 ![workingGUIprototype](workingGUIprototype4.png)
 File can be viewed [here](prototype4.py)
