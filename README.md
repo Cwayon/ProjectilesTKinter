@@ -5,3 +5,5 @@ This Repository does not include Log books and notes.
 
 Prerequisites: 
 - matplotlib
+
+(pip install matplotlib)
